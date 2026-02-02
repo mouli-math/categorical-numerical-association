@@ -4,7 +4,6 @@ This repository provides a **reference implementation** of the methods and
 experiments presented in the manuscript:
 
 > **Bounded and Robust Measures of Association Between Categorical and Numerical Variables**  
-> (submitted to *Statistics & Computing*, Springer Nature)
 
 The code is released to support **reproducibility, transparency, and methodological clarity**.
 It is intended as a **research reference implementation**, not as an optimized software library.
